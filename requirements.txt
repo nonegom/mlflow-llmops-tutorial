@@ -1,0 +1,6 @@
+langchain
+langgraph
+langchain-openai 
+mlflow-skinny
+dotenv
+pandas
